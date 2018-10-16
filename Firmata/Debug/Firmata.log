@@ -1,0 +1,2 @@
+﻿  Serial.cpp
+c:\users\cmcsc\source\repos\firmata\firmata\serial.cpp(58): fatal error C1189: #error:  "This platform is unsupported, sorry"
